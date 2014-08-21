@@ -25,17 +25,22 @@ Patches and bug reports are welcome!
 
 ### Fuse
 
+- [ ] 0900390P1
+- [ ] 0900030P1
+- [ ] 0900020P1 / KT8-1000SMD1206
+- [ ] 307010010 / SMD1210R075SF
+
 ### Optoelectronics
 
-- [ ] LY190-128064
+- [ ] 308020000 / LY190-128064
 
 ### Buzzer
 
-- [ ] KS-12065D03YA
+- [ ] 312010004 / KS-12065D03YA
 
 ### Relays
 
-- [ ] HLS8L-DC5V-S-C
+- [ ] 315030000 / HLS8L-DC5V-S-C
 
 
 kicad: http://www.kicad-pcb.org/ "KiCAD homepage"
